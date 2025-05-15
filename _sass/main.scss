@@ -35,7 +35,6 @@ h2 {
 }
 
 nav {
-    margin: 24px 0;
     ul {
         display: flex;
         justify-content: center;
@@ -65,4 +64,16 @@ nav {
 
 .active {
     background-color: $secondary-color;
+}
+
+.desc {
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    list-style-type: none; margin: 0; border-radius: 12px; padding: 12px; overflow: hidden; border: none;
+    background-color: $primary-color;
+    color: white;
 }
