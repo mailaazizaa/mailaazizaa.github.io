@@ -1,5 +1,5 @@
-$primary-color: #3b7b3a;
-$secondary-color: #fbbc05;
+$primary-color: #faa4bd;
+$secondary-color: #fae3c6;
 $font-stack: Helvetica, sans-serif;
 
 body,
@@ -11,7 +11,7 @@ p {
 
 body {
     font-family: $font-stack; line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #eae4d5;
 }
 
 header {
@@ -37,6 +37,8 @@ h2 {
 nav {
     margin: 24px 0;
     ul {
+        display: flex;
+        justify-content: center;
         list-style-type: none; margin: 0; padding: 0; overflow: hidden;
         background-color: $primary-color;
     }
