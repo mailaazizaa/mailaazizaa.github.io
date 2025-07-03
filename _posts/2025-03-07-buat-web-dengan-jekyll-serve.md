@@ -2,7 +2,7 @@
 layout: post
 title: "Membuat Web dengan Jekyll Serve"
 ---
-### Membuat Web dengan Jekyll Serve
+<strong>Membuat Web dengan Jekyll Serve</strong>
 
 Untuk membuat personal web dengan Jekyll dan publish di GitHub Page ikuti langkah-langkah berikut ini:
 1. Buat akun di GitHub dengan username sesuai nama masing-masing.

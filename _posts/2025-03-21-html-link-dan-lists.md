@@ -3,6 +3,6 @@ layout: post
 title: "HTML Link dan Lists"
 ---
 
-### Penjelasan tentang link dan lists pada HTML.
+<strong>Penjelasan tentang link dan lists pada HTML.</strong>
 
 ![HTML Link dan Lists](/assets/images/roblox.png)

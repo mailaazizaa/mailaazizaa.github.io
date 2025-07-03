@@ -2,7 +2,7 @@
 layout: post
 title: "Javascript dan Config YML"
 ---
-### Javascript dan Config YML
+<strong>Javascript dan Config YML</strong>
 
 ### Javascript
 JavaScript adalah bahasa pemrograman yang digunakan untuk membuat situs web interaktif. Dalam proyek Jekyll, Anda dapat menambahkan file JavaScript ke dalam folder `assets/js` dan menghubungkannya ke halaman HTML Anda.

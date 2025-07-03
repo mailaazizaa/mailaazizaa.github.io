@@ -2,7 +2,7 @@
 layout: post
 title: "Membuat Install Ruby dan Jekyll"
 ---
-### Install Ruby dan Jekyll
+<strong>Install Ruby dan Jekyll</strong>
 
 ### Download Ruby Installer
 - Silahkan download Ruby Installer dari [https://rubyinstaller.org](https://rubyinstaller.org)

@@ -3,7 +3,7 @@ layout: post
 title: "Menggunakan Layout di Post atau Halaman"
 ---
 
-### Menggunakan Layout di Post atau Halaman
+<strong>Menggunakan Layout di Post atau Halaman</strong>
 
 Pada setiap post atau halaman, Anda dapat menentukan layout yang digunakan melalui Front Matter:
 
